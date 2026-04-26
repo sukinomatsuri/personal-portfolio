@@ -28,12 +28,6 @@ const skills = [
   },
 ];
 
-const stats = [
-  { value: "10+", label: "Projects Deployed" },
-  { value: "5+", label: "CI/CD Pipelines" },
-  { value: "3+", label: "Cloud Platforms" },
-];
-
 export default function About() {
   return (
     <section className="py-20 md:py-32 bg-background relative overflow-hidden">
@@ -69,15 +63,7 @@ export default function About() {
               Terraform on AWS. Every manual process is an automation opportunity.
             </p>
 
-            {/* Quick stats */}
-            <div className="grid grid-cols-3 gap-6 pt-8 border-t border-border">
-              {stats.map((stat) => (
-                <div key={stat.label}>
-                  <div className="text-3xl font-black text-accent mb-1 font-mono">{stat.value}</div>
-                  <p className="text-muted-foreground text-xs uppercase tracking-wider">{stat.label}</p>
-                </div>
-              ))}
-            </div>
+
           </div>
 
           {/* Right column - Skills grid (3 cols) */}

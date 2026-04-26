@@ -16,15 +16,23 @@ interface Project {
 const projects: Project[] = [
   {
     id: 1,
-    title: "URL Shortener — Full DevOps Pipeline",
+    title: "URL Shortener",
     description: "A production-grade URL shortener deployed on AWS EC2 with Docker Compose, Terraform IaC, and automated CI/CD via GitHub Actions.",
     tags: ["Docker", "Terraform", "GitHub Actions", "AWS EC2"],
     icon: <Cloud className="w-6 h-6" />,
     github: "https://github.com/sukinomatsuri/url-shortener",
     featured: true,
   },
+  {
+    id: 2,
+    title: "AWS Event-Driven Image Processor",
+    description: "A serverless, event-driven image processing pipeline built on AWS, managed with Terraform, and deployed via GitHub Actions.",
+    tags: ["AWS Lambda", "Amazon S3", "Amazon DynamoDB", "GitHub Actions", "Terraform"],
+    icon: <Cloud className="w-6 h-6" />,
+    github: "https://github.com/sukinomatsuri/aws-image-processor",
+    featured: true,
+  },
 ];
-
 export default function Projects() {
   return (
     <section className="py-20 md:py-32 bg-secondary/30 relative overflow-hidden">
