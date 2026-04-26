@@ -1,14 +1,14 @@
-# 🚀 DevOps Engineer Portfolio
+# DevOps Portfolio
 
 [![Deploy to GitHub Pages](https://github.com/sukinomatsuri/personal-portfolio/actions/workflows/deploy.yml/badge.svg)](https://sukinomatsuri.github.io/personal-portfolio/)
 
 Đây là trang web Portfolio cá nhân được xây dựng để giới thiệu kỹ năng, dự án và chứng chỉ trong lĩnh vực **DevOps / Cloud Engineering**. 
 
-🌐 **Link Website Trực Tiếp:** [https://sukinomatsuri.github.io/personal-portfolio/](https://sukinomatsuri.github.io/personal-portfolio/)
+**Link Website Trực Tiếp:** [https://sukinomatsuri.github.io/personal-portfolio/](https://sukinomatsuri.github.io/personal-portfolio/)
 
 ---
 
-## 📑 Nội Dung Portfolio
+## Nội Dung Portfolio
 Trang web được thiết kế theo phong cách Terminal/DevOps hiện đại với đầy đủ các phần tử yêu cầu:
 - **Giới thiệu (About):** Trình bày niềm đam mê với tự động hóa, CI/CD, Terraform và Docker.
 - **Dự án (Projects):** Trưng bày các dự án thực tế với mô tả kiến trúc chi tiết.
@@ -17,7 +17,7 @@ Trang web được thiết kế theo phong cách Terminal/DevOps hiện đại v
 
 ---
 
-## 🛠️ Công Nghệ Sử Dụng
+## Công Nghệ Sử Dụng
 - **Frontend:** React.js (Vite), TypeScript.
 - **Styling:** Tailwind CSS (kèm hiệu ứng Glassmorphism & Gradient Mesh).
 - **Icons:** Lucide React.
@@ -26,7 +26,7 @@ Trang web được thiết kế theo phong cách Terminal/DevOps hiện đại v
 
 ---
 
-## 🚀 Quá Trình Thực Hiện (Development Process)
+## Quá Trình Thực Hiện (Development Process)
 
 Dự án được thực hiện qua các giai đoạn sau:
 
@@ -52,20 +52,7 @@ Dự án được thực hiện qua các giai đoạn sau:
 
 ---
 
-## 📸 Hình Ảnh Mô Tả (Screenshots)
-
-*(Lưu ý: Bạn có thể tự dùng công cụ Snipping Tool/Lightshot chụp ảnh website của mình và dán đè vào đây)*
-
-- **Giao diện Hero (Dark Mode):** 
-  ![Hero Section](https://via.placeholder.com/800x400?text=Hero+Section+-+Dark+Mode)
-- **Giao diện Sáng (Light Mode):** 
-  ![Light Mode](https://via.placeholder.com/800x400?text=Light+Mode+Design)
-- **Danh sách Chứng chỉ & Form Liên hệ:**
-  ![Certifications](https://via.placeholder.com/800x400?text=Certifications+and+Contact+Form)
-
----
-
-## 💻 Hướng Dẫn Chạy Dự Án Trên Máy Cá Nhân (Local)
+## Hướng Dẫn Chạy Dự Án Trên Máy Cá Nhân (Local)
 
 1. Tải repo này về máy:
    ```bash
