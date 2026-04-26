@@ -19,21 +19,21 @@ Trang web được thiết kế theo phong cách Terminal/DevOps hiện đại v
 
 ## Công Nghệ Sử Dụng
 - **Frontend:** React.js (Vite), TypeScript.
-- **Styling:** Tailwind CSS (kèm hiệu ứng Glassmorphism & Gradient Mesh).
+- **Styling:** Tailwind CSS.
 - **Icons:** Lucide React.
 - **Routing:** Wouter.
 - **Deployment:** GitHub Actions & GitHub Pages.
 
 ---
 
-## Quá Trình Thực Hiện (Development Process)
+## Quá Trình Thực Hiện
 
 Dự án được thực hiện qua các giai đoạn sau:
 
 ### 1. Lên ý tưởng và Thiết kế Giao diện (UI/UX)
-- Quyết định sử dụng tông màu Tối (Dark mode) làm chủ đạo để mang lại cảm giác "Terminal" quen thuộc của dân kỹ thuật.
-- Bổ sung Chế độ Sáng (Light mode) với nền Gradient lưới tinh tế để đa dạng hóa trải nghiệm.
-- Thiết kế các khối hiển thị dạng "Command Line" (Dòng lệnh).
+- Sử dụng Dark mode làm chủ đạo để mang lại cảm giác "Terminal" quen thuộc.
+- Bổ sung Light mode với nền Gradient lưới tinh tế để đa dạng hóa trải nghiệm.
+- Thiết kế các khối hiển thị dạng "Command Line".
 
 ### 2. Phát triển Component (Code Implementation)
 - Cấu trúc ứng dụng thành các Component độc lập: `Hero`, `About`, `Projects`, `Certifications`, `Contact`.
