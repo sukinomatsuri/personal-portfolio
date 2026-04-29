@@ -32,6 +32,15 @@ const projects: Project[] = [
     github: "https://github.com/sukinomatsuri/aws-image-processor",
     featured: true,
   },
+  {
+    id: 3,
+    title: "Techmart E-commerce Platform",
+    description: "Containerized a 3-tier application and provisioned secure AWS infrastructure (ECS Fargate, RDS, S3) using Terraform, with an automated CI/CD pipeline via GitHub Actions.",
+    tags: ["Docker", "Terraform", "AWS ECS", "GitHub Actions"],
+    icon: <Cloud className="w-6 h-6" />,
+    github: "https://github.com/hoangyennewit/Techmart-multi-branch-ecommerce",
+    featured: true,
+  }
 ];
 export default function Projects() {
   return (
