@@ -2,22 +2,20 @@
 
 [![Deploy to GitHub Pages](https://github.com/sukinomatsuri/personal-portfolio/actions/workflows/deploy.yml/badge.svg)](https://sukinomatsuri.github.io/personal-portfolio/)
 
-Đây là trang web Portfolio cá nhân được xây dựng để giới thiệu kỹ năng, dự án và chứng chỉ trong lĩnh vực **DevOps / Cloud Engineering**. 
+This is a personal Portfolio website built to showcase skills, projects, and certifications in the field of **DevOps / Cloud Engineering**. 
 
-**Link Website Trực Tiếp:** [https://sukinomatsuri.github.io/personal-portfolio/](https://sukinomatsuri.github.io/personal-portfolio/)
-
+**Live Website Link:** [https://sukinomatsuri.github.io/personal-portfolio/](https://sukinomatsuri.github.io/personal-portfolio/)
 ---
 
-## Nội Dung Portfolio
-Trang web được thiết kế theo phong cách Terminal/DevOps hiện đại với đầy đủ các phần tử yêu cầu:
-- **Giới thiệu (About):** Trình bày niềm đam mê với tự động hóa, CI/CD, Terraform và Docker.
-- **Dự án (Projects):** Trưng bày các dự án thực tế với mô tả kiến trúc chi tiết.
-- **Chứng chỉ (Certifications):** Tích hợp các chứng chỉ từ IBM, Google Cloud và FreeCodeCamp kèm link xác thực (Credly).
-- **Liên hệ (Contact):** Form liên hệ hoạt động thực tế (gửi email tự động qua FormSubmit) cùng các liên kết GitHub, LinkedIn.
-
+## Portfolio Content
+The website is designed with a modern Terminal/DevOps style, featuring all required elements:
+- **About:** Showcases a passion for automation, CI/CD, Terraform, and Docker.
+- **Projects:** Displays real-world projects with detailed architectural descriptions.
+- **Certifications:** Integrates certifications from IBM, Google Cloud, and FreeCodeCamp with verification links (Credly).
+- **Contact:** A fully functional contact form (sends emails automatically via FormSubmit) along with GitHub and LinkedIn links.
 ---
 
-## Công Nghệ Sử Dụng
+## Technologies Used
 - **Frontend:** React.js (Vite), TypeScript.
 - **Styling:** Tailwind CSS.
 - **Icons:** Lucide React.
